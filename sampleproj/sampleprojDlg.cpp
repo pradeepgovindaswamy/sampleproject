@@ -99,6 +99,8 @@ BOOL CsampleprojDlg::OnInitDialog()
 
 	// TODO: Add extra initialization here
 
+	AfxMessageBox(_T("testing"));
+
 	return TRUE;  // return TRUE  unless you set the focus to a control
 }
 
